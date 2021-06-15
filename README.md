@@ -21,10 +21,14 @@ welcome to my github homepage. I am a rookie JavaScript developer and I have bee
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiHaoGo&count_private=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiHaoGo&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+## My Dome
+ <div align="center">
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LiHaoGo&repo=city-weather&show_owner=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+ </div>
 ### Technologies & Tools
 
 
