@@ -23,25 +23,9 @@
 
 
 
-## My Dome
-
-
-
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LiHaoGo&repo=city-weather&show_owner=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LiHaoGo&repo=webplus_School-of-Education&show_owner=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LiHaoGo&repo=Plane-Wars&show_owner=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LiHaoGo&repo=LiHaoGo.github.io&show_owner=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
 ### Technologies & Tools
 
-![](https://img.shields.io/badge/Tools-jQuery-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Tools-Layui-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-jQuery-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Tools-Layui-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 
 
